@@ -6,7 +6,7 @@
 
 <p>Ao acessar este repositório, você encontrará duas pastas principais, com os testes localizados dentro da pasta do OneDrive.</p>
 
-<p>Dentro dessa pasta, você verá o arquivo <code>requirements.txt</code>, que contém todas as dependências necessárias para executar o código de forma simples e eficiente. Ao lado dele, estará a pasta do nosso ambiente virtual, que contém os códigos organizados em duas subpastas:</p>
+<p>Dentro dessa pasta, você verá o arquivo <code>requirements.txt</code>, que contém todas as dependências necessárias para executar o código de forma simples e eficiente. Ao lado dele, estará a pasta do meu ambiente virtual, que contém os códigos organizados em duas subpastas:</p>
 
 <ul>
     <li><strong>Automação</strong>: Esta pasta contém o teste de raspagem de dados.</li>
