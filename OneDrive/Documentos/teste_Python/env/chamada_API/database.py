@@ -132,7 +132,8 @@ class Data_base:
         except sqlite3.Error as e:
             return f"Erro ao excluir a empresa: {e}"
 
-    # Atualizar dados de uma empresa
+
+    # Atualização dos dados
     def update_company(self, fullDataSet):
         cursor = self.connection.cursor()
         cursor.execute('''

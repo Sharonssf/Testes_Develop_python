@@ -54,7 +54,7 @@ def exportar_para_planilha(dados):
 
 # Realizando a integração
 def integrar_com_api(cnpj):
-    razao_social = consulta_cnpj(cnpj)  # Consulta API
+    razao_social = consulta_cnpj(cnpj)  
     
     if razao_social:
         company_data = {
